@@ -1,10 +1,10 @@
 from pizza_order import order, print_vouchers, get_vouchers
 
-street_no = '49'
-street = 'BARATTA ST'
-suburb = 'CRACE'
-state = 'ACT'
-postcode = '2911'
+street_no = ''
+street = ''
+suburb = ''
+state = ''
+postcode = ''
 order_option = 'delivery'  # or pickup
 
 pizza1 = 'FIRE BREATHER'
@@ -12,8 +12,8 @@ pizza2 = 'GODFATHER'
 pizza3 = 'SUPREME'
 
 name = "Caleb"
-phone = "0423523758"
-email = 'caleb.mcleod0@gmail.com'
+phone = ""
+email = ''
 
 payment_method = 'paypal'  # instagift, cash, creditcard
 
