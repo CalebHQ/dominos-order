@@ -11,11 +11,11 @@ pizza1 = 'FIRE BREATHER'
 pizza2 = 'GODFATHER'
 pizza3 = 'SUPREME'
 
-name = "Caleb"
+name = ""
 phone = ""
 email = ''
 
-payment_method = 'paypal'  # instagift, cash, creditcard
+payment_method = ''  # paypal, instagift, cash, creditcard
 
 voucher_id = 2
 
